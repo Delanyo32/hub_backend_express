@@ -20,6 +20,7 @@ This Express.js server acts as the backbone of the Ashesi Hub system, facilitati
 - Express.js
 - MongoDB (or your choice of database)
 - Mongoose (if using MongoDB)
+- ElasticSearch
 - JWT for authentication
 - dotenv for environment variable management
 
